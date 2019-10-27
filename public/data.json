@@ -1,0 +1,29 @@
+{
+	"code":"200",
+	"data":[
+		{
+			"name":"lily",
+			"id":1,
+			"age":15,
+			"sex":"women"
+		},
+		{
+			"id":2,
+			"name":"tom",
+			"age":18,
+			"sex":"man"
+		},
+		{
+			"id":3,
+			"name":"lucy",
+			"age":16,
+			"sex":"women"
+		},
+		{
+			"id":4,
+			"name":"lilei",
+			"age":17,
+			"sex":"man"
+		}
+	]
+}
